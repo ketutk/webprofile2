@@ -3,7 +3,7 @@ This website is a landing Website and have just 1 page
 Link to this Website :
 https://ketutk.github.io/webprofile2/index.html
 
-Language to used :
+Language used :
 - HTML
 - CSS
 - JAVASCRIPT
